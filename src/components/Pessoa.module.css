@@ -1,0 +1,11 @@
+body {
+    background-color: grey
+}
+.Container {
+    padding: 1%;
+    background-color: blue;
+    text-align: center;
+}
+.Content {
+    color: #fff
+}
